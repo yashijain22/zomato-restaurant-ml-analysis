@@ -90,24 +90,6 @@ These models help identify hidden patterns and group restaurants based on simila
 
 ---
 
-## 📁 Repository Structure
-zomato-restaurant-ml-analysis/
-│
-├── data/
-│ ├── Zomato Restaurant names and Metadata.csv
-│ └── Zomato Restaurant reviews.csv
-│
-├── notebook/
-│ └── Zomato_Restaurant_Analysis_NLP_Clustering.ipynb
-│
-├── model/
-│ └── zomato_model.pkl
-│
-├── README.md
-└── requirements.txt
-
-
----
 
 ## 📌 Conclusion
 This project demonstrates how **data analysis, NLP, and unsupervised machine learning** can be applied to real-world restaurant data. By clustering restaurants based on customer reviews and restaurant attributes, we can gain meaningful insights that help improve customer experience and support better business decisions in the food industry.
